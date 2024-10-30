@@ -2,4 +2,4 @@
 print(ayo)
 ls()
 tablea
-git revert [commit id]
+git revert
